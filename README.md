@@ -13,7 +13,7 @@ The four main tools for BA mapping are listed below:
 
 4 - [RP](https://code.earthengine.google.com/b5a5034849109668fa8f7fe0c38dcd48)
 
-There is also a fifth extra tool, not related to BA mapping:
+There is also a fifth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
 
 5 - [Image Viewer](https://code.earthengine.google.com/e8ff23518a2ec00c5e2c648c4251c403)
 
