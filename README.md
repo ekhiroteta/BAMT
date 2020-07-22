@@ -3,7 +3,7 @@
 
 **by Ekhi Roteta and Aitor Bastarrika (UPV/EHU)**
 
-The four main tools are listed below:
+The four main tools for BA mapping are listed below:
 
 1 - [BA Cartography](https://code.earthengine.google.com/93012cd8ebc29f589f02acb1a80c097a)
 
@@ -13,7 +13,7 @@ The four main tools are listed below:
 
 4 - [RP](https://code.earthengine.google.com/b5a5034849109668fa8f7fe0c38dcd48)
 
-And the fifth extra tool:
+There is also a fifth extra tool, not related to BA mapping:
 
 5 - [Image Viewer](https://code.earthengine.google.com/e8ff23518a2ec00c5e2c648c4251c403)
 
