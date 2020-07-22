@@ -17,12 +17,12 @@ And the fifth extra tool:
 
 5 - [Image Viewer](https://code.earthengine.google.com/e8ff23518a2ec00c5e2c648c4251c403)
 
-### User Guide
+For more information about the tools and how to use them:
 
-For more information about tools' usage, please visit the **User Guide** [here](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf).
+[**User Guide**](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf).
 
-### Manuscript
+[**Manuscript**]()
 
-### Citation
+[**Citation**]()
 
 >
