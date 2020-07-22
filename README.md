@@ -1,4 +1,4 @@
-# BAMT v1.6
+# BAMT
 ### Burned Area Mapping Tools in Google Earth Engine
 
 **by Ekhi Roteta and Aitor Bastarrika (UPV/EHU)**
