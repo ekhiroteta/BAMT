@@ -19,7 +19,7 @@ And the fifth extra tool:
 
 ### User Guide
 
-For more information about tools' usage, please visit the **User Guide** [here]().
+For more information about tools' usage, please visit the **User Guide** [here](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf).
 
 ### Manuscript
 
