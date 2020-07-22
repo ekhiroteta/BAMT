@@ -23,6 +23,6 @@ For more information about the tools and how to use them:
 
 [**Manuscript**]()
 
-[**Citation**]()
+**Citation**
 
 >
