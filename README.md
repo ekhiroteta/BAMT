@@ -16,3 +16,5 @@ The four main tools are listed below:
 And the fifth extra tool:
 
 5 - [Image Viewer](https://code.earthengine.google.com/e8ff23518a2ec00c5e2c648c4251c403)
+
+For more information about tools' usage, please open the User Guide [here]().
