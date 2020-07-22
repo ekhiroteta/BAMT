@@ -1,4 +1,4 @@
-# BAMT
+# BAMT v1.6
 ### Burned Area Mapping Tools in Google Earth Engine
 
 **by Ekhi Roteta and Aitor Bastarrika (UPV/EHU)**
@@ -17,4 +17,12 @@ And the fifth extra tool:
 
 5 - [Image Viewer](https://code.earthengine.google.com/e8ff23518a2ec00c5e2c648c4251c403)
 
-For more information about tools' usage, please open the User Guide [here]().
+### User Guide
+
+For more information about tools' usage, please visit the **User Guide** [here]().
+
+### Manuscript
+
+### Citation
+
+>
