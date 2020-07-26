@@ -5,13 +5,13 @@
 
 The four main tools for BA mapping are listed below:
 
-1 - [BA Cartography](https://code.earthengine.google.com/93012cd8ebc29f589f02acb1a80c097a)
+1 - [BA Cartography](https://code.earthengine.google.com/24717322260b03302b431751d4197dcc)
 
-2 - [VA](https://code.earthengine.google.com/d80c076c4fbb5ff308d888fc2c1def2b)
+2 - [VA](https://code.earthengine.google.com/d6a2c311731ef6b469934e422b555cfe)
 
 3 - [VA Dates](https://code.earthengine.google.com/df4719fc18017e211ebe4baaff2f5549)
 
-4 - [RP](https://code.earthengine.google.com/b5a5034849109668fa8f7fe0c38dcd48)
+4 - [RP](https://code.earthengine.google.com/685f810d17a7192a34fb9817f256b212)
 
 There is also a fifth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
 
