@@ -1,7 +1,7 @@
 # BAMT
 ### Burned Area Mapping Tools in Google Earth Engine
 
-**by Ekhi Roteta and Aitor Bastarrika (UPV/EHU)**
+**by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
 
 The four main tools for BA mapping are listed below:
 
