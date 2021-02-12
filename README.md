@@ -7,7 +7,7 @@ The four main tools for BA mapping are listed below:
 
 1 - [BA Cartography](https://code.earthengine.google.com/b9130b04958f81719e8f8c5376b206e5)
 
-2 - [VA](https://code.earthengine.google.com/9e5d885b26db845b45aa2033b783d4c3)
+2 - [VA](https://code.earthengine.google.com/bbd973368b81e8dd67a77fed5b3f189f)
 
 3 - [VA Dates](https://code.earthengine.google.com/ecb5a59f76b5b8939aeeccc2bc46afe0)
 
