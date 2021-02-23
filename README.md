@@ -17,14 +17,18 @@ There is also a fifth extra tool, not related to BA mapping, for displaying Land
 
 5 - [Image Viewer](https://code.earthengine.google.com/c0c2a7fc5bdf57d09f4fa517ac4ed0a7)
 
-<br><br>
-
 For more information about the tools and how to use them:
 
 [**User Guide**](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf)
 
+<br><br>
+
+These tools were described in a scientific article published in the journal Remote Sensing:
+
 **Manuscript**
 
 **Citation**
+
+Datasets analyzed for the study described in the Remote Sensing article are publicly accessible.
 
 >
