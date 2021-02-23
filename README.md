@@ -23,13 +23,13 @@ For more information about the tools and how to use them:
 
 <br><br>
 
-These tools were described in a scientific article published in the journal Remote Sensing:
+These tools were described in a scientific article published in the Remote Sensing journal:
 
 **Manuscript**
 
 **Citation**
 
-Datasets analyzed for the study described in the Remote Sensing article are publicly accessible:
+Datasets analyzed for the study described in the article are publicly accessible:
 
 [**Southeast Australia (SEA)**](https://ehubox.ehu.eus/s/s7QrJ8aitixFTek)
 
