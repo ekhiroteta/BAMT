@@ -27,7 +27,7 @@ These tools were described in a scientific article published in the Remote Sensi
 
 [**Manuscript**](https://www.mdpi.com/2072-4292/13/4/816)
 
-**Citation**: Roteta, E.; Bastarrika, A.; Franquesa, M.; Chuvieco, E. Landsat and Sentinel-2 Based Burned Area Mapping Tools in Google Earth Engine. Remote Sens. 2021, 13, 816. https://doi.org/10.3390/rs13040816
+**Citation**: Roteta, E.; Bastarrika, A.; Franquesa, M.; Chuvieco, E. Landsat and Sentinel-2 Based Burned Area Mapping Tools in Google Earth Engine. *Remote Sens.* **2021**, 13, 816. https://doi.org/10.3390/rs13040816
 
 Datasets analyzed for the study described in the article are publicly accessible:
 
