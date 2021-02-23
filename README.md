@@ -29,7 +29,7 @@ These tools were described in a scientific article published in the Remote Sensi
 
 **Citation**: Roteta, E.; Bastarrika, A.; Franquesa, M.; Chuvieco, E. Landsat and Sentinel-2 Based Burned Area Mapping Tools in Google Earth Engine. *Remote Sens.* **2021**, *13*, 816. https://doi.org/10.3390/rs13040816
 
-Datasets analyzed for the study described in the article are publicly accessible:
+Datasets created for the study described in the article are publicly accessible:
 
  - Southeast Australia (SEA): [BA maps](https://ehubox.ehu.eus/s/s7QrJ8aitixFTek) and [RP](https://ehubox.ehu.eus/s/2CA2zRojRRs3gHc)
 
