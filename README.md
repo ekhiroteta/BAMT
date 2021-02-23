@@ -31,8 +31,8 @@ These tools were described in a scientific article published in the Remote Sensi
 
 Datasets analyzed for the study described in the article are publicly accessible:
 
-[**Southeast Australia (SEA)**](https://ehubox.ehu.eus/s/s7QrJ8aitixFTek)
+**Southeast Australia (SEA):** [BA maps](https://ehubox.ehu.eus/s/s7QrJ8aitixFTek) and [RP]()
 
-[**Canada**](https://ehubox.ehu.eus/s/GMR3nS98Gwt2yLy)
+**Canada:** [BA map](https://ehubox.ehu.eus/s/GMR3nS98Gwt2yLy)
 
 >
