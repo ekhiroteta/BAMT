@@ -35,4 +35,8 @@ Datasets created for the study described in the article are publicly accessible:
 
  - Canada: [BA map](https://ehubox.ehu.eus/s/GMR3nS98Gwt2yLy)
 
+<p align="center">
+<img  src="https://github.com/ekhiroteta/BAMT/blob/master/docs/Roteta et al 2021 - RS - BAMT - GA.png" width="200">
+</p>
+
 >
