@@ -23,7 +23,7 @@ For more information about the tools and how to use them:
 
 <br><br>
 
-These tools were described in a scientific article published in the Remote Sensing journal:
+These tools were described in a scientific article published in the [Remote Sensing] (https://www.mdpi.com/journal/remotesensing) journal:
 
 [**Manuscript**](https://www.mdpi.com/2072-4292/13/4/816)
 
