@@ -5,6 +5,23 @@
 
 Last version **v1.7** released in April 2022. The five main tools for BA mapping are listed below:
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+
+
+
+
+
 1 - [BA Cartography](https://code.earthengine.google.com/20c4db5b2e94290aff4b3a87cdb056c2)
 
 2 - [VA](https://code.earthengine.google.com/d39add8c5de8904433500bd738f3dab6)
