@@ -3,27 +3,33 @@
 
 **by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
 
-The four main tools for BA mapping are listed below:
+The five main tools for BA mapping are listed below:
 
-1 - [BA Cartography](https://code.earthengine.google.com/5be07a41d8d69de0cc048ef76def21af)
+1 - [BA Cartography](https://code.earthengine.google.com/20c4db5b2e94290aff4b3a87cdb056c2)
 
-2 - [VA](https://code.earthengine.google.com/8762fd8d4090d53211784ccafc093c5c)
+2 - [VA](https://code.earthengine.google.com/d39add8c5de8904433500bd738f3dab6)
 
-3 - [VA Dates](https://code.earthengine.google.com/ecb5a59f76b5b8939aeeccc2bc46afe0)
+3 - [VA Dates](https://code.earthengine.google.com/95aaacf6b9e2c29f922c421472724c24)
 
-4 - [RP](https://code.earthengine.google.com/b5fc4fb02c750a377b8d113b64bcd154)
+4 - [RP](https://code.earthengine.google.com/5864c922d6171bcb85666ddb4451f6fd)
 
-There is also a fifth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
+5 - [Assessment](https://code.earthengine.google.com/33664838272530f4b1a3a199fcd954bd)
 
-5 - [Image Viewer](https://code.earthengine.google.com/c0c2a7fc5bdf57d09f4fa517ac4ed0a7)
+There is also a sixth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
+
+6 - [Image Viewer](https://code.earthengine.google.com/478e4218e6fc00d51f9b36e49073950a)
 
 For more information about the tools and how to use them:
 
-[**User Guide**](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf)
+[**User Guide**](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.7.pdf)
+
+The user guide and tools of older versions can be found here:
+
+ - [v1.6](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf) (released in February 2021)
 
 <br><br>
 
-These tools were described in a scientific article published in the [Remote Sensing](https://www.mdpi.com/journal/remotesensing) journal:
+These tools (v1.6) were described in a scientific article published in the [Remote Sensing](https://www.mdpi.com/journal/remotesensing) journal:
 
 [**Manuscript**](https://www.mdpi.com/2072-4292/13/4/816)
 
