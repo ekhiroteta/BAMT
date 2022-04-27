@@ -4,7 +4,7 @@
 **by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
 
 <p align="center">
-<img  src="https://github.com/ekhiroteta/BAMT/blob/master/docs/figure_BAMT_v1.7_tools_diagram.png" width="50%">
+<img  src="https://github.com/ekhiroteta/BAMT/blob/master/docs/figure_BAMT_v1.7_tools_diagram.png" width="60%">
 </p>
 
 Last version **v1.7** released in April 2022. The five main tools for BA mapping are listed below:
