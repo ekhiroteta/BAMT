@@ -3,9 +3,7 @@
 
 **by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
 
-Last version (**v1.7**), released in April 2022
-
-The five main tools for BA mapping are listed below:
+Last version (**v1.7**) released in April 2022. The five main tools for BA mapping are listed below:
 
 1 - [BA Cartography](https://code.earthengine.google.com/20c4db5b2e94290aff4b3a87cdb056c2)
 
@@ -15,7 +13,7 @@ The five main tools for BA mapping are listed below:
 
 4 - [RP](https://code.earthengine.google.com/5864c922d6171bcb85666ddb4451f6fd)
 
-5 - [Assessment](https://code.earthengine.google.com/33664838272530f4b1a3a199fcd954bd)
+5 - [Assessment](https://code.earthengine.google.com/33664838272530f4b1a3a199fcd954bd) **NEW**
 
 There is also a sixth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
 
