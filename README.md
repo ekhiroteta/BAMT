@@ -27,7 +27,7 @@ For more information about the tools and how to use them:
 
 [**User Guide**](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.7.pdf)
 
-The user guide and tools of older versions can be found here:
+The user guide and links to the tools of older versions can be found here:
 
  - [v1.6](https://github.com/ekhiroteta/BAMT/blob/master/docs/BAMT_GEE_UserGuide_v1.6.pdf) (released in February 2021)
 
