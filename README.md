@@ -3,7 +3,7 @@
 
 **by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
 
-**New version (v1.7), released in April 2022 !!**
+Last version (**v1.7**), released in April 2022
 
 The five main tools for BA mapping are listed below:
 
