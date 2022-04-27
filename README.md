@@ -1,7 +1,7 @@
 # BAMT
 ### Burned Area Mapping Tools in Google Earth Engine
 
-**by Ekhi Roteta and Aitor Bastarrika (University of the Basque Country, UPV/EHU)**
+**by Ekhi Roteta, Aitor Bastarrika (University of the Basque Country, UPV/EHU) and Magí Franquesa (University of Alcalá, UAH)**
 
 <p align="center">
 <img  src="https://github.com/ekhiroteta/BAMT/blob/master/docs/figure_BAMT_v1.7_tools_diagram.png" width="60%">
