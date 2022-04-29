@@ -19,7 +19,7 @@ Last version **v1.7** released in April 2022. The five main tools for BA mapping
 
 5 - [Assessment](https://code.earthengine.google.com/33664838272530f4b1a3a199fcd954bd) **(NEW)**
 
-There is also a sixth extra tool, not related to BA mapping, for displaying Landsat and Sentinel-2 data:
+There is also a sixth extra tool, not related to BA mapping, that displays Landsat and Sentinel-2 data:
 
 6 - [Image Viewer](https://code.earthengine.google.com/478e4218e6fc00d51f9b36e49073950a)
 
